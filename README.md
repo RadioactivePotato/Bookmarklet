@@ -22,8 +22,8 @@ FindInArchive.org.js: Search for the website you're on on Web Archive
 
 BackgroundColour.js: Replace the background colour.
 
--Customizable by `javascript:(function(){document.body.style.background = 'pink';})();`
+-Customizable by replacing "pink" with a colour listed on this website https://www.w3.org/wiki/CSS/Properties/color/keywords
        
-       replacing "pink" with a colour listed on this website https://www.w3.org/wiki/CSS/Properties/color/keywords
+       `javascript:(function(){document.body.style.background = 'pink';})();`
        
-       like this `javascript:(function(){document.body.style.background = 'cyan';})();`
+       `javascript:(function(){document.body.style.background = 'cyan';})();`
