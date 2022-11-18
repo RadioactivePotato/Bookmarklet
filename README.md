@@ -20,6 +20,8 @@ Spinning.js: Make the webpage spin (Works on most site)
 
 FindInArchive.org.js: Search for the website you're on on Web Archive
 
+----
+
 BackgroundColour.js: Replace the background colour.
 
    -Customizable by replacing "pink" with a colour listed on this website https://www.w3.org/wiki/CSS/Properties/color/keywords
@@ -27,3 +29,5 @@ BackgroundColour.js: Replace the background colour.
    From this       `javascript:(function(){document.body.style.background = 'pink';})();`
        
    To this         `javascript:(function(){document.body.style.background = 'cyan';})();`
+   
+----
