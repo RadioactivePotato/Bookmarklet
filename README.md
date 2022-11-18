@@ -24,6 +24,6 @@ BackgroundColour.js: Replace the background colour.
 
 -Customizable by replacing "pink" with a colour listed on this website https://www.w3.org/wiki/CSS/Properties/color/keywords
        
-       `javascript:(function(){document.body.style.background = 'pink';})();`
+From this       `javascript:(function(){document.body.style.background = 'pink';})();`
        
-       `javascript:(function(){document.body.style.background = 'cyan';})();`
+To this         `javascript:(function(){document.body.style.background = 'cyan';})();`
