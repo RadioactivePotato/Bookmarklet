@@ -7,8 +7,7 @@ Click on more at the bottom left corner
 Delete everything in the url box
 
 Paste in the code.
-
-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 ComicSanify.js: Change the font to Comic Sans
 
 MinceraftEverywhere.js: Minceraft Everywhere
