@@ -22,11 +22,11 @@ FindInArchive.org.js: Search for the website you're on on Web Archive
 
 ----
 
-BackgroundColour.js: Replace the background colour.
+BackgroundColour.js: Replace the background colour (Work on most website)
 
    -Customizable by replacing "pink" with a colour listed on this website https://www.w3.org/wiki/CSS/Properties/color/keywords
        
-   From this       `javascript:(function(){document.body.style.background = 'pink';})();`
+   From this       `javascript:(function(){document.body.style.background = 'black';})();`
        
    To this         `javascript:(function(){document.body.style.background = 'cyan';})();`
    
