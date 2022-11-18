@@ -10,8 +10,11 @@ Paste in the code.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-ComicSanify.js: Change the font to Comic Sans
+ComicSansify.js: Change the font to Comic Sans
 
 MinceraftEverywhere.js: Minceraft Everywhere
 
 CursorCoord.js: Show the coordinate of the cursor on the search bar
+
+Spinning.js: Make the webpage spin (Works on most site)
+
