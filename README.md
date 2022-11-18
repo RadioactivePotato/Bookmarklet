@@ -9,6 +9,7 @@ Delete everything in the url box
 Paste in the code.
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# What do they do?
 
 ComicSansify.js: Change the font to Comic Sans
 
