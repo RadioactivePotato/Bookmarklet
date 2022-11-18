@@ -19,3 +19,11 @@ CursorCoord.js: Show the coordinate of the cursor on the search bar
 Spinning.js: Make the webpage spin (Works on most site)
 
 FindInArchive.org.js: Search for the website you're on on Web Archive
+
+BackgroundColour.js: Replace the background colour.
+
+-Customizable by `javascript:(function(){document.body.style.background = 'pink';})();`
+       
+       replacing "pink" with a colour listed on this website https://www.w3.org/wiki/CSS/Properties/color/keywords
+       
+       like this `javascript:(function(){document.body.style.background = 'cyan';})();`
