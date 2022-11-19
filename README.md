@@ -18,7 +18,7 @@ CursorCoord.js: Show the coordinate of the cursor on the search bar
 
 Spinning.js: Make the webpage spin (Works on most site)
 
-FindInArchive.org.js: Search for the website you're on on Web Archive
+FindInArchive.org.js: Search for the website you're on on Web Archive (Wayback Machine)
 
 ----
 
