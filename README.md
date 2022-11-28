@@ -21,6 +21,7 @@ Spinning.js: Make the webpage spin (Works on most site)
 FindInArchive.org.js: Search for the website you're on on Web Archive (Wayback Machine)
 
 FontBomb.js: Create a nuke on screen when you clicked the page and will blow up the page to a mess
+
 ----
 
 BackgroundColour.js: Replace the background colour (Work on most website)
@@ -30,5 +31,5 @@ BackgroundColour.js: Replace the background colour (Work on most website)
 From this `javascript:(function(){document.body.style.background = 'black';})();`
        
 To this `javascript:(function(){document.body.style.background = 'cyan';})();`
-   
+
 ----
