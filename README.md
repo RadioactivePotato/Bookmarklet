@@ -22,7 +22,8 @@ FindInArchive.org.js: Search for the website you're on on Web Archive (Wayback M
 
 FontBomb.js: Create a nuke on screen when you clicked the page and will blow up the page to a mess
 
-EasyInspectElements.js: Basiclly inspect elements but you can edit the page by clicking the text you wanted to edit. Click the bookmark to turn it off.
+EasyInspectElements.js: Basiclly inspect elements but you can edit the page by clicking the text you wanted to edit. 
+                        Click the bookmark again to turn it off.
 
 ----
 
