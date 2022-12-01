@@ -30,7 +30,7 @@ BlockedGoGuardanTabClose.js: This will make someone who is controlling your comp
 
 AutoClicker.js: Click where you want, and it will click automaticly. it clicks 100 times every second (100cps).
 
-InspectElement.js: Inspect unblocked
+InspectElement.js: Inspect unblocked. YOu'll find a gear icon on the bottom left of the screen. (Works on some website)
 
 piano.js: A piano controlled by your keyboard
 
