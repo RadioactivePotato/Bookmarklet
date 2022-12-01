@@ -24,6 +24,16 @@ FontBomb.js: Create a nuke on screen when you clicked the page and will blow up 
 
 EasyInspectElements.js: Basiclly inspect elements but you can edit the page by clicking the text you wanted to edit. Click the bookmark again to turn it off.
 
+TabClock.ks: Change the tab name and icon to disquise as other website.
+
+BlockedGoGuardanTabClose.js: This will make someone who is controlling your computer being unable to close it.
+
+AutoClicker.js: Click where you want, and it will click automaticly. it clicks 100 times every second (100cps).
+
+InspectElement.js: Inspect unblocked
+
+piano.js: A piano controlled by your keyboard
+
 ----
 
 BackgroundColour.js: Replace the background colour (Work on most website)
