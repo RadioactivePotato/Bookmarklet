@@ -34,6 +34,12 @@ InspectElement.js: Inspect unblocked. YOu'll find a gear icon on the bottom left
 
 piano.js: A piano controlled by your keyboard
 
+QuizletMatch0.6sec.js: Get a score of 0.6 seconds every time in Quizlet match!
+
+3dPage.js: Everything will be 3D!
+
+HTMLgoggles.js: This lets you edit the raw HTML. It's very advanced editing.
+
 ----
 
 BackgroundColour.js: Replace the background colour (Work on most website)
