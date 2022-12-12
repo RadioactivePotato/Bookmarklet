@@ -40,7 +40,8 @@ QuizletMatch0.6sec.js: Get a score of 0.6 seconds every time in Quizlet match!
 
 HTMLgoggles.js: This lets you edit the raw HTML. It's very advanced editing.
 
-TypingTroll.js: Change any thing you're typing to "Change this text!"
+TypingTroll.js: Change any thing you're typing to "Change this text!" [Github/ShadowbreakerGD](https://github.com/ShadowbreakerGD/Bookmarklet-For-Trolling)
+
 
 ----
 
