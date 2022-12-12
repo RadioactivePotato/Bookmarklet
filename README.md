@@ -62,7 +62,9 @@ Other cool collection of bookmarklets:
 
 [Github/hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets)
 
-Spaceholder
+[Github/Priyank-Vaghela/Awesome-Bookmarklets](https://github.com/Priyank-Vaghela/Awesome-Bookmarklets)
+
+place holded
 
 ----
 Support me by subscribing to https://youtube.com/@radioactive.potato and also check out my twitter https://twitter.com/RadioactiveP724
