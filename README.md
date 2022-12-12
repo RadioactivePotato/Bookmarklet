@@ -58,7 +58,7 @@ To this `javascript:(function(){document.body.style.background = 'cyan';})();`
 
 ----
 
-# Other cool collection of bookmarklets:
+Other cool collection of bookmarklets:
 [Github/hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets)
 
 Spaceholder
