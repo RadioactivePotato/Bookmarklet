@@ -42,6 +42,9 @@ HTMLgoggles.js: This lets you edit the raw HTML. It's very advanced editing.
 
 TypingTroll.js: Change any thing you're typing to "Change this text!" [Github/ShadowbreakerGD](https://github.com/ShadowbreakerGD/Bookmarklet-For-Trolling)
 
+TomatoSmash.js: Throw tomatoes at websites, click the tomatos to smash it! [Github/Quinten](https://github.com/Quinten/tomato-smash)
+
+
 
 ----
 
@@ -52,6 +55,13 @@ BackgroundColour.js: Replace the background colour (Work on most website)
 From this `javascript:(function(){document.body.style.background = 'black';})();`
        
 To this `javascript:(function(){document.body.style.background = 'cyan';})();`
+
+----
+
+# Other cool collection of bookmarklets:
+[Github/hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets)
+
+e
 
 ----
 Support me by subscribing to https://youtube.com/@radioactive.potato and also check out my twitter https://twitter.com/RadioactiveP724
