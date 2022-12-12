@@ -7,9 +7,19 @@
 
 # 1-Click bookmarks:
 
-- ## 3D Page - Everything will be 3D! (Works on somewebsite)
+- ## 3D Page - Everything will be 3D! (Works on some website)
 ```javascript
 javascript:(function(){var js=document.body.appendChild(document.createElement("script"));js.onerror=function(){alert("Sorry, the script could not be loaded.")};js.src="https://rawgit.com/Krazete/bookmarklets/master/tri.js"})();
+```
+
+- ## AutoClicker - Click where you want, and it will click automaticly. it clicks 100 times every second (100cps). (Works on some website)
+```javascript
+javascript:(function() { var clickerIsMouseDown = false; var clickerCurrentMouseTarget = document.body; document.body.addEventListener('mouseup', () => { clickerIsMouseDown = false; }); document.body.addEventListener('mousedown', () => { clickerIsMouseDown = true; }); document.body.addEventListener('mousemove', (e) => { clickerCurrentMouseTarget = e.target }); setInterval(() => { if (clickerIsMouseDown) clickerCurrentMouseTarget.click(); }, 0); })();
+```
+
+- ## Blocked GoGuardan Tab Close - This will make someone who is controlling your computer being unable to close it.
+```javascript
+javascript:(function () {window.onbeforeunload = function() { return 1; };})()
 ```
 
 # What do they do?
