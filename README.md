@@ -1,12 +1,16 @@
-# How to install a bookmarklet?
+> How to install a bookmarklet?
 
-Create a bookmark (the star on the right side of the url bar if you are using chrome)
+1. Create a bookmark (the star on the right side of the url bar if you are using chrome)
+2. Click on more at the bottom left corner
+3. Delete everything in the url box
+4. Paste in the code.
 
-Click on more at the bottom left corner
+# 1-Click bookmarks:
 
-Delete everything in the url box
-
-Paste in the code.
+- ## 3D Page - Everything will be 3D! (Works on somewebsite)
+```javascript
+javascript:(function(){var js=document.body.appendChild(document.createElement("script"));js.onerror=function(){alert("Sorry, the script could not be loaded.")};js.src="https://rawgit.com/Krazete/bookmarklets/master/tri.js"})();
+```
 
 # What do they do?
 
