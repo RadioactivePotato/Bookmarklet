@@ -5,6 +5,8 @@
 3. Delete everything in the url box
 4. Paste in the code.
 
+Note: I do not own any of the codes, I just put it together for easier access.
+
 # --Useful Bookmarklets--
 
 - ## AutoClicker - Click where you want, and it will click automaticly. it clicks 100 times every second (100cps). (Works on some website)
