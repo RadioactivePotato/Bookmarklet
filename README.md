@@ -103,7 +103,7 @@ javascript:(function () {document.title=prompt('Tab Cloak\n\nEnter new Tab Title
 javascript:if(document.body.contentEditable != 'true')void(document.body.contentEditable = 'true');else void(document.body.contentEditable = 'false');
 ```
 
-- ## InspectElementUnblocked(Inspect/Console) - Inspect unblocked. YOu'll find a gear icon on the bottom left of the screen.
+- ## InspectElementUnblocked(Inspect/Console) - Inspect unblocked. You'll find a gear icon on the bottom left of the screen.
 ```javascript
 javascript:(function () { var script = document.createElement('script'); script.src="//cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();
 ```
