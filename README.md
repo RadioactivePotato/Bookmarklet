@@ -146,3 +146,5 @@ place holder
 Support me by subscribing to https://youtube.com/@radioactive.potato and also check out my twitter https://twitter.com/RadioactiveP724
 
 Unbl0cked Links Google Docs: https://docs.google.com/document/d/10xalR2icHd02sXzp9cn4waJ9Ky366ZeLPrDRjhW4ZZ8/edit
+
+<img src="https://github.com/RadioactivePotato/RadioactivePotato/raw/main/radioactive-potato.svg">
