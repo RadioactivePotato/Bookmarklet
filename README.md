@@ -149,4 +149,4 @@ Unbl0cked Links Google Docs: https://docs.google.com/document/d/10xalR2icHd02sXz
 
 - Virtual Machine, Pr0xy and more...
 
-<img src="https://github.com/RadioactivePotato/RadioactivePotato/raw/main/radioactive-potato.svg">
+<img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/radioactive-potato.svg"> <img src="https://github.com/RadioactivePotato/ReadmeFiles/blob/main/potato-incorporated.svg">
