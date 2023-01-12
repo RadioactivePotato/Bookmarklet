@@ -28,7 +28,8 @@ javascript: (function () {
 ```
 
 - ## Prompt your time and date.
-```javascript:var dt78KwZ9=new Date();alert(dt78KwZ9.toLocaleString())
+```javascript
+javascript:var dt78KwZ9=new Date();alert(dt78KwZ9.toLocaleString())
 ```
 
 # --Fun Bookmarklets--
@@ -134,7 +135,8 @@ javascript:(function(){var i, nd; function copyChildren(a,b){var i, nn; for(i=0;
 ```
 
 - ## Delete all images on a website.
-```javascript:(function(){ [].slice.call(document.querySelectorAll('img, .gist')).forEach(function(elem) { elem.remove(); }); })() 
+```javascript
+javascript:(function(){ [].slice.call(document.querySelectorAll('img, .gist')).forEach(function(elem) { elem.remove(); }); })() 
 ```
 
 - ## BackgroundColour - Replace the background colour (Work on most website)
