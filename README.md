@@ -27,6 +27,10 @@ javascript: (function () {
 })()
 ```
 
+- ## Prompt your time and date.
+```javascript:var dt78KwZ9=new Date();alert(dt78KwZ9.toLocaleString())
+```
+
 # --Fun Bookmarklets--
 
 - ## 3D Page - Everything will be 3D! (Works on some website)
@@ -79,6 +83,15 @@ javascript:(function() { var piano = { /* initialization */ css: document.create
 javascript:(()=>{var selection = window.getSelection();var original = selection.anchorNode.textContent;selection.anchorNode.textContent = selection.anchorNode.textContent.replace(original, original.toUpperCase());})();
 ```
 
+- ## Spinning Cursor
+```javascript
+javascript:iV33MaET=0;Cu4Xg8Y=new Array('n-resize','nw-resize','w-resize','sw-resize','s-resize','se-resize','e-resize','ne-resize');setInterval('iV33MaET++;document.body.style.cursor=Cu4Xg8Y[iV33MaET%8]',150)
+```
+
+- ## Flip Images
+```javascript:(function(){['', '-ms-', '-webkit-', '-o-', '-moz-'].map(function(prefix){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.style[prefix + 'transform'] = 'rotate(180deg)';});});}())
+```
+
 # Unblocking Bookmarklet
 
 - ## YT Video Unblocker - The name speaks for itself (Run the bookmarklet on the video you wanted to watch and it should bring you to a new page with the video embeded)
@@ -118,6 +131,10 @@ javascript:(function () {var script=document.createElement('script');script.src=
 - ## CloneTab - Clone the website you're on to a about:blank page.
 ```javascript
 javascript:(function(){var i, nd; function copyChildren(a,b){var i, nn; for(i=0;i<a.childNodes.length;++i) { nn = a.childNodes[i].cloneNode(true); if(nd.importNode) nn = nd.importNode(nn, true); b.appendChild(nn); } } nd=window.open().document; nd.open(); nd.close(); /*140681*/ copyChildren(document.getElementsByTagName("head")[0], nd.getElementsByTagName("head")[0]); copyChildren(document.body, nd.body);})();
+```
+
+- ## Delete all images on a website.
+```javascript:(function(){ [].slice.call(document.querySelectorAll('img, .gist')).forEach(function(elem) { elem.remove(); }); })() 
 ```
 
 - ## BackgroundColour - Replace the background colour (Work on most website)
