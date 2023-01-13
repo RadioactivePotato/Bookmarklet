@@ -90,7 +90,8 @@ javascript:iV33MaET=0;Cu4Xg8Y=new Array('n-resize','nw-resize','w-resize','sw-re
 ```
 
 - ## Flip Images
-```javascript:(function(){['', '-ms-', '-webkit-', '-o-', '-moz-'].map(function(prefix){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.style[prefix + 'transform'] = 'rotate(180deg)';});});}())
+```javascript
+javascript:(function(){['', '-ms-', '-webkit-', '-o-', '-moz-'].map(function(prefix){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.style[prefix + 'transform'] = 'rotate(180deg)';});});}())
 ```
 
 # Unblocking Bookmarklet
